@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblio SYSTEM "C:\Users\noudo\OneDrive\Documents\NormeDocumentaireEtXml/biblio.dtd">
+<?xml-stylesheet type="text/xsl" href="file:/C:\Users\noudo\OneDrive\Documents\NormeDocumentaireEtXml/biblio.xsl"?>
+<biblio>
+    <etudiant code="E1" nom="AMAO" prenom="Chaib" age="23">
+        <livre id="L1" titre="JAVA" dateEmprunt="20022-11-11" rendu="Oui"/>
+        <livre id="L2" titre="XML" dateEmprunt="20022-12-11" rendu="Non"/>
+    </etudiant>
+    <etudiant code="E2" nom="HASSAN" prenom="Mohamed" age="25">
+        <livre id="L1" titre="JAVA" dateEmprunt="20022-12-23" rendu="Non"/>
+    </etudiant>
+</biblio>
